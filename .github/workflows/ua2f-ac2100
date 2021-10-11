@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build ua2f
+name: Build ua2f-openclash-ac2100
 
 on:
   repository_dispatch:
